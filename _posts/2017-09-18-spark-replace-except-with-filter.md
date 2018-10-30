@@ -23,14 +23,14 @@ with this post.
 Case 1:
 <center>
 
-![replace_except_with_not_filter_case-1](sathiyaprabhu.com/img/posts/spark-optimizer/ReplaceExceptWithNotFilter-case1.png)
+![replace_except_with_not_filter_case-1](http://sathiyaprabhu.com/img/posts/spark-optimizer/ReplaceExceptWithNotFilter-case1.png)
 
 </center>
 
 Case 2:
 <center>
 
-![replace_except_with_not_filter_case-2](sathiyaprabhu.com/img/posts/spark-optimizer/ReplaceExceptWithNotFilter-case2.png)
+![replace_except_with_not_filter_case-2](http://sathiyaprabhu.com/img/posts/spark-optimizer/ReplaceExceptWithNotFilter-case2.png)
 
 </center>
 
